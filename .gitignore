@@ -1,0 +1,17 @@
+# Local data files
+train.csv
+test.csv
+submission.csv
+
+# Generated model and outputs
+*.keras
+outputs/
+
+# Local archives and notebook checkpoints
+*.zip
+.ipynb_checkpoints/
+
+# Python virtual environments and caches
+.venv/
+__pycache__/
+*.py[cod]
